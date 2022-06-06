@@ -1,0 +1,14 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: teal;
+
+}
+
+form{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
